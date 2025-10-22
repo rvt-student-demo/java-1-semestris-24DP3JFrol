@@ -15,7 +15,7 @@ public class Delikatese {
         System.out.print("Ekspress piegāde (0==nē, 1==jā): ");
         int Piegade = scanner.nextInt();
 
-        
+        Piegade = Piegade * 1;
 
         System.out.print("");
         System.out.print("Rēķins:");

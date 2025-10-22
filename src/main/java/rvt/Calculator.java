@@ -2,7 +2,7 @@ package rvt;
 
 import java.util.Scanner;
 
-public class AppTest {
+public class Calculator {
     // ...existing code...
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
