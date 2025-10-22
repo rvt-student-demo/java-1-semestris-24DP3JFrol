@@ -10,7 +10,7 @@ public class Delikatese {
         int Name = scanner.nextInt();
 
         System.out.print("Ievadi cenu: ");
-        double Price = double.valueOf(scanner.nextLine());
+        double Price = (scanner.nextInt());
 
         System.out.print("Ekspress piegāde (0==nē, 1==jā): ");
         int Piegade = scanner.nextInt();
@@ -20,7 +20,7 @@ public class Delikatese {
         System.out.print("");
         System.out.print("Rēķins:");
         System.out.print("   " + Name + "  " + Price);
-        System.out.print("Piegāde  " + );
+        System.out.print("Piegāde  ");
 
 
 
