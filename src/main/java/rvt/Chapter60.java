@@ -1,5 +1,5 @@
 package rvt;
-import java.util.ArrayList;
+
 
 public class Chapter60 {
     public static void main(String[] args) {}
@@ -18,10 +18,7 @@ public class Chapter60 {
             System.out.println( "Original Array: " 
                 + val[0] + " " + val[1] + " " + val[2] + " " + val[3] );
  
-    // Construct an array object for twice.
             twice = new int[val.length];
-    // Put values in twice that are twice the
-    // corresponding values in val.
             for (int i = 0; i < val.length; i++) {
                 twice[i] = val[i] * 2;
             }
@@ -34,9 +31,6 @@ public class Chapter60 {
             int[] valB   = {-12,  24, -79, -13};
             int[] sum    = {  0,   0,   0,   0};
     
-            // Add values from corresponding cells of valA and valB
-            // and put the result in the corresponding cell of sum.
-
             sum[0] = valA[0] + valB[0];
             sum[1] = valA[1] + valB[1];
             sum[2] = valA[2] + valB[2];

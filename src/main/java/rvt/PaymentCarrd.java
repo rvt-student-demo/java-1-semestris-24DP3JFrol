@@ -1,9 +1,6 @@
 package rvt;
 
-import java.util.Scanner;
-
-
-    public class Main {
+    public class PaymentCarrd {
 
         public static class PaymentCard {
             private double balance;
