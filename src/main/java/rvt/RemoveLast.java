@@ -20,7 +20,6 @@ public class RemoveLast {
 
         removeLast(strings);
         removeLast(strings);
-
         System.out.println(strings);
     }
 }
