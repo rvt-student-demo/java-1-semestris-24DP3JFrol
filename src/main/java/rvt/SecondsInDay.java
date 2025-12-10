@@ -12,5 +12,4 @@ public class SecondsInDay {
         System.out.println(Rez + " Seconds in " + days + " days");
         scanner.close();
     }
-    
 }
