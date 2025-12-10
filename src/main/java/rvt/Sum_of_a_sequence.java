@@ -17,6 +17,7 @@ import java.util.Scanner;
             }
             System.out.print("The sum is: " + Rez);
 
+            
             scanner.close();
         }
 }
