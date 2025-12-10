@@ -24,7 +24,6 @@ public class Delikatese {
 
 
 
-
         scanner.close();
     }
     
