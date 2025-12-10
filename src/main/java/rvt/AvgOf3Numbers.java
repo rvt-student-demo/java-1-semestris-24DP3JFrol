@@ -14,6 +14,5 @@ public class AvgOf3Numbers {
             double Avg = sum / 3;
             System.out.println("Average of 3 numbers is " + Avg);
         }
-        
 }
 
