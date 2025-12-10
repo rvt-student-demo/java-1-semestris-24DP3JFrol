@@ -25,6 +25,7 @@ public class OnTheList {
         System.out.println(search + " was not found!");
         }
 
+        
         scanner.close();
     }
 }
