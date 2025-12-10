@@ -28,5 +28,4 @@ public class Detalas {
         scanner.close();
     }
 
-    
 }
