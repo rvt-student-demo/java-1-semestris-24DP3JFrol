@@ -23,8 +23,6 @@ public class Calculator {
         System.out.println(first_number + " * " + second_number + " = " + multiply);
         System.out.println(first_number + " / " + second_number + " = " + divide);
 
-
-
         scanner.close();
     }
 }
